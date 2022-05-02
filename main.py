@@ -2,7 +2,7 @@
 from requests import get
 from os import system
 
-system("average.rip API Example Python") 
+system("title average.rip API Example Python") 
 
 # replace this with your own informations
 username = "anditv21"
